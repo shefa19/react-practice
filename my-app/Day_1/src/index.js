@@ -9,13 +9,6 @@ const dateName = date.getDate();
 const monthName = date.getMonth() + 1;
 const currentYear = date.getFullYear();
 
-// const headingStyle = {
-//   backgroundColor: "purple",
-//   color: "white",
-//   textAlign: "center",
-//   padding: "15px",
-// };
-
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
